@@ -1,0 +1,4 @@
+set grid
+set xrange [0:5]
+plot	'histogram.dat' w l
+pause -1
